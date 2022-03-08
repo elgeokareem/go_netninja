@@ -1,0 +1,4 @@
+Bill breakdown: 
+pera:                     ...$5 
+Tip:                      ...$1.1 
+total:                    ...$6.10
